@@ -11,7 +11,7 @@ alias gl="git log --pretty=format:'%C(yellow)%h %C(white bold)%ad %Cgreen%d %Cre
 # django
 alias pm='python manage.py'
 alias pmr='python manage.py runserver'
-alias pms='python manage.py sqlall'
+alias pms='python manage.py shell'
 
 # python
 alias ov='grep -E "class |def "'
